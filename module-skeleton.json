@@ -1,0 +1,15 @@
+{
+  "repository": "module-planned-liberu-executive-insights-0532ffee-vue-inertia",
+  "capabilityKey": "planned:liberu:executive-insights",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-planned-liberu-executive-insights-0532ffee-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/liberu/nextjs/executive-insights.md",
+  "presentationPlan": "projects/liberu/vue/executive-insights.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "liberu"
+  ]
+}
